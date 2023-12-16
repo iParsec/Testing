@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Table(name="")
+@Table(name="banque")
 @PrimaryKeyJoinColumn(name="idbanque")
 public class Banque implements Serializable {
 
