@@ -39,7 +39,6 @@ public class Agent implements Serializable  {
 	private String PostNom;
 	
 	
-	
 	private String photo;
 	
 	private String prenom;
